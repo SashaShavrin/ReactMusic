@@ -15,6 +15,10 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 ![image](https://user-images.githubusercontent.com/97390534/209474723-c37d54b8-e0fb-4a00-9546-4e2102cc6476.png)
 
+![image](https://user-images.githubusercontent.com/97390534/209474767-d2e17425-73e4-4d98-ac53-491f6f47bd39.png) ![image](https://user-images.githubusercontent.com/97390534/209474786-a3dbf92a-c992-402c-b7b3-e77b69b324d9.png)
+
+
+
 
 # Stack
 
