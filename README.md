@@ -14,10 +14,17 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 # Visualization
 
 ![image](https://user-images.githubusercontent.com/97390534/209474723-c37d54b8-e0fb-4a00-9546-4e2102cc6476.png)
+![image](https://user-images.githubusercontent.com/97390534/209474767-d2e17425-73e4-4d98-ac53-491f6f47bd39.png) 
+![image](https://user-images.githubusercontent.com/97390534/209474786-a3dbf92a-c992-402c-b7b3-e77b69b324d9.png)
 
-![image](https://user-images.githubusercontent.com/97390534/209474767-d2e17425-73e4-4d98-ac53-491f6f47bd39.png) ![image](https://user-images.githubusercontent.com/97390534/209474786-a3dbf92a-c992-402c-b7b3-e77b69b324d9.png)
+<img src="https://user-images.githubusercontent.com/97390534/209474723-c37d54b8-e0fb-4a00-9546-4e2102cc6476.png" width=40% height=50%>
+<img src="https://user-images.githubusercontent.com/97390534/209474767-d2e17425-73e4-4d98-ac53-491f6f47bd39.png" width=30% height=50%>
+<img src="https://user-images.githubusercontent.com/97390534/209474786-a3dbf92a-c992-402c-b7b3-e77b69b324d9.png" width=10% height=50%>
 
-<img src="https://user-images.githubusercontent.com/97390534/209474767-d2e17425-73e4-4d98-ac53-491f6f47bd39.png) ![image](https://user-images.githubusercontent.com/97390534/209474786-a3dbf92a-c992-402c-b7b3-e77b69b324d9.png" width=50% height=50%>
+Пикселей:
+
+<img src="https://user-images.githubusercontent.com/16319829/81180309-2b51f000-8fee-11ea-8a78-ddfe8c3412a7.png" width="150" height="280">
+
 
 
 # Stack
