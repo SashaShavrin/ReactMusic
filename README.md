@@ -1,4 +1,4 @@
-# Simple to-do list on React.js
+# Simple music player on React.js
 
 To install dependencies, enter the command 
 
