@@ -29,7 +29,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
       ![sass-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232689-43da12eb-a0ab-4c6f-a4a5-82b4bd2abae1.svg) &emsp;
       ![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232683-ffe777d3-8031-4d97-889a-7d03cb64a371.svg) 
 
-
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
