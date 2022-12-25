@@ -11,6 +11,11 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+# Visualization
+
+![image](https://user-images.githubusercontent.com/97390534/209474723-c37d54b8-e0fb-4a00-9546-4e2102cc6476.png)
+
+
 # Stack
 
    ![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232684-dee074e2-47e3-4f5b-b61d-44a991bc15fd.svg) &emsp;
@@ -19,9 +24,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
       ![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232683-ffe777d3-8031-4d97-889a-7d03cb64a371.svg) 
 
 
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 
 
