@@ -27,5 +27,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
    ![javascript-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232684-dee074e2-47e3-4f5b-b61d-44a991bc15fd.svg) &emsp;
       ![react-1-logo-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232686-7c7ed7ed-5492-4900-a19c-2ad608dd951c.svg) &emsp;
       ![sass-svgrepo-com](https://user-images.githubusercontent.com/97390534/208232689-43da12eb-a0ab-4c6f-a4a5-82b4bd2abae1.svg) &emsp;
-  ![html-svgrepo-com](https://user-images.githubusercontent.com/97390534/211379523-0a47e7e8-2766-480b-ab96-5088c1c69e44.svg)
+![html-5-svgrepo-com](https://user-images.githubusercontent.com/97390534/211379853-c4ef6ac3-b9b9-407c-ae7d-1726c0a9a98b.svg)
+
 
